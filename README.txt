@@ -1,1 +1,1 @@
-Git Practice용
+Git Practice용.
