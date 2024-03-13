@@ -16,3 +16,8 @@ d
 d
 d 이 내용으로 merge해야함!!
 
+
+2. 다시 git flow 해보자
+
+- 지금 first 변경점
+
